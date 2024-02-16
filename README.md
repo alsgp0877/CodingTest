@@ -71,6 +71,15 @@
     
 </details>
 
+<details>
+  <summary> 2023-02-08 ~ 09 수열과 구간 쿼리 2
+</summary>
+
+  - 08 
+  - 09
+    
+</details>
+
 
 ## coding test using javascript (2023/12/25 ~ 2024/01/16)
 <details>
