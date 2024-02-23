@@ -97,7 +97,7 @@
 </details>
 
 <details>
-  <summary> 2023-02-22 수열과 구간 쿼리 1 review
+  <summary> 2023-02-22 수열과 구간 쿼리 4 
 </summary>
 
   
